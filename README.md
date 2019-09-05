@@ -1,3 +1,25 @@
+# react-playground_andrewtyl
+
+This is a template used for starting new react projects.
+
+## Set Up
+Complete the following steps to start a new project (NEW-PROJECT-NAME):
+
+1. Open a terminal and cd to where you want the new project folder to be.
+2. In terminal, run git clone REACT-PLAYGROUND-URL NEW-PROJECTS-NAME
+3. In terminal, run cd NEW-PROJECTS-NAME
+4. Delete .git folder using a file exploring program or run rm -rf .git in terminal.
+5. In terminal, run git init
+6. In terminal, run npm i
+7. Edit name, description, and repository in package.json
+8. Edit version, author, keywords, and license in package.json if needed.
+9. Edit this file to include your app's name and description. It is reccomended to keep a backup of this file before altering it and add it to .gitignore or to reference the readme at https://github.com/thinkful-ei-firefly/react-playground_andrewtyl/blob/master/README.md for additional information about Scripts and Deploying.
+
+
+## Create React App Original README.md
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

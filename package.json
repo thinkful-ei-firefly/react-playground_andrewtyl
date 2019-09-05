@@ -1,6 +1,14 @@
 {
   "name": "react-playground_andrewtyl",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Andrew Jessen-Tyler",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thinkful-ei-firefly/react-playground_andrewtyl"
+  },
+  "main": "src/index.js",
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
