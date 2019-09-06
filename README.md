@@ -1,6 +1,6 @@
 # react-playground_andrewtyl
 
-This is a template used for starting new react projects.
+Andrew Jessen-Tyler / React Playground
 
 ## Set Up
 Complete the following steps to start a new project (NEW-PROJECT-NAME):
